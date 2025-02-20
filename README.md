@@ -4,3 +4,5 @@ I’m working on a project to predict thyroid cancer risk using a dataset I foun
 I’ve tested a few models to figure out which one works best for this type of analysis.
 
 Quick note: This classification model takes a general approach to predictions, but diving deeper into specific groups like gender or country might give more meaningful insights.
+
+Datasets is from https://www.kaggle.com/datasets/mzohaibzeeshan/thyroid-cancer-risk-dataset/data
